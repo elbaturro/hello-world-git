@@ -36,4 +36,16 @@ Underline 2 genera la linea como si fuera H1
 - [Esti es un link en index](index.html)
 
 # Imagenes
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo MarkDown](https://markdown-here.com/img/icon256.png)
+
+# Code Snippets codigo que solo se visualiza.
+```HTML
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+
+<!-- and it's easy to individually load additional languages -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/go.min.js"></script>
+
+<script>hljs.highlightAll();</script>
+
+```
