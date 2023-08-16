@@ -63,3 +63,15 @@ Esto es un texto referente a una cita que pondremos debajo:
 Si añadimos dos intros ya no añade la cita el texto
 >Esto es otra cita.
 Al no poner otro salto de linea lo pone todo como cita.
+
+# Lineas divisoras
+Esto es un texto que sera dividido por guiones medios
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+
+Esto es otro texto dividido por guines bajos.
+
+___
