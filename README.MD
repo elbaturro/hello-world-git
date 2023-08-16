@@ -29,3 +29,8 @@ Underline 2 genera la linea como si fuera H1
 - Esto es un ITEM de lista desordenada.
 - Esto es un ITEM de lista desordenada.
 - Esto es un ITEM de lista desordenada.
+
+# Link
+- <a href="http://google.com">Esto es un link HTML </a>
+- [Esti es un link en Markdown](http://www.google.com)
+- [Esti es un link en index](index.html)
