@@ -39,6 +39,7 @@ Underline 2 genera la linea como si fuera H1
 ![Logo MarkDown](https://markdown-here.com/img/icon256.png)
 
 # Code Snippets codigo que solo se visualiza.
+Codigo en HTML
 ```HTML
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
@@ -47,5 +48,10 @@ Underline 2 genera la linea como si fuera H1
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/go.min.js"></script>
 
 <script>hljs.highlightAll();</script>
-
 ```
+
+# Tablas
+| Nombre | Apellido | Documento | 
+| ------ | -------- | --------- |
+| Javier | Pérez Bellés | 11111111G |
+| Tomas  | Garcia   | 2222222K |
