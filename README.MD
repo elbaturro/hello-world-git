@@ -34,3 +34,6 @@ Underline 2 genera la linea como si fuera H1
 - <a href="http://google.com">Esto es un link HTML </a>
 - [Esti es un link en Markdown](http://www.google.com)
 - [Esti es un link en index](index.html)
+
+# Imagenes
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
