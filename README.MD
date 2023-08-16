@@ -5,4 +5,20 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
-Soy un Readme.
+Underline 1
+-----------
+
+Underline 2 genera la linea como si fuera H1
+===========
+
+-Emphasis *Italica* de la primer forma.
+
+-Emphasis _Italica_ de la segunda forma.
+
+-Emphasis **bold o strong** de la primera forma.
+-Emphasis _bold o strong_ de la segunda forma.
+
+- Emphasis ~~Tachado~~
+- Aqui podemos usar *formato Italico*, pero tambien **BOLD**.
+
+
