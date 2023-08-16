@@ -55,3 +55,11 @@ Codigo en HTML
 | ------ | -------- | --------- |
 | Javier | Pérez Bellés | 11111111G |
 | Tomas  | Garcia   | 2222222K |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Si añadimos dos intros ya no añade la cita el texto
+>Esto es otra cita.
+Al no poner otro salto de linea lo pone todo como cita.
